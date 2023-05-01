@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Devops, Microservices..**
 
-- 👨‍💻 All of my projects are available at [dohungthinhSTS](https://github.com/dohungthinhSTS?tab=repositories)
+- 👨‍💻 All of my projects are available at [dohungthinhtin](https://github.com/dohungthinhSTS?tab=repositories)
 
 - 📝 I regularly write articles on [dohungthinhtin's blog](https://dohungthinhtin.com)
 
