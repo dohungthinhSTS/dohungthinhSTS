@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Kubernetes, Devops, Microservices..**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dohungthinhSTS?tab=repositories](https://github.com/dohungthinhSTS?tab=repositories)
+- 👨‍💻 All of my projects are available at [dohungthinhSTS](https://github.com/dohungthinhSTS?tab=repositories)
 
-- 📝 I regularly write articles on [https://dohungthinhtin.com](https://dohungthinhtin.com)
+- 📝 I regularly write articles on [dohungthinh's blog](https://dohungthinhtin.com)
 
 - 💬 Ask me about **Sass App, Ruby On Rails, CI/CD.**
 
